@@ -1,15 +1,4 @@
-Conditions
-└─ URL Exact: http://185.249.196.36:3000/FodoAuthMacho?macho=6213609210568058205&version=3.1
-
-Actions
-└─ Return Response
-   ├─ Status: 200
-   ├─ Header: Content-Type = application/json
-   └─ Body:
-      {
-        "auth": true,
-        "macho": "6213609210568058205",
-        "status": "active",
-        "expires": "2099-12-31T23:59:59Z",
-        "message": "Authorized"
-      }
+{
+  "auth": true,
+  "error": "not_bound_or_inactive"
+}
