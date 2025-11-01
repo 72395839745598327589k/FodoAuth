@@ -1,1 +1,6 @@
-{"auth":6213609210568058205,"expire-date":"2033-10-10"}
+{
+  "auth": true,
+  "error": null,
+  "expires_at": "2026-11-01T00:00:00.000Z",
+  "remaining_seconds": 31536000   // ~1 year in seconds
+}
