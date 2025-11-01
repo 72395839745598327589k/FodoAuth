@@ -1,1 +1,5 @@
-6213609210568058205,Reese2,2095-08-01
+{
+  "auth": true,
+  "auth_key": 6213609210568058205
+  "error": "not_bound_or_inactive"
+}
