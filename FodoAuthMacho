@@ -1,6 +1,5 @@
 {
   "auth": true,
-  "error": null,
   "expires_at": "2026-11-01T00:00:00.000Z",
-  "remaining_seconds": 31536000   // ~1 year in seconds
+  "remaining_seconds": 31536000
 }
