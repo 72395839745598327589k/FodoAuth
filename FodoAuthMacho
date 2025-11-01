@@ -1,7 +1,1 @@
-{
-  "auth": true,
-  "macho": "6213609210568058205",
-  "status": "active",
-  "expires": "2099-12-31T23:59:59Z",
-  "message": "Authorized"
-}
+{ "auth": true, "macho": "6213609210568058205" }
